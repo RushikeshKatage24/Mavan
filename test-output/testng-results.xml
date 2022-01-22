@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-21T14:11:10 IST" name="Default suite" finished-at="2022-01-21T14:11:10 IST" duration-ms="97">
+  <suite started-at="2022-01-22T17:43:24 IST" name="Default suite" finished-at="2022-01-22T17:43:24 IST" duration-ms="58">
     <groups>
     </groups>
-    <test started-at="2022-01-21T14:11:10 IST" name="Default test" finished-at="2022-01-21T14:11:10 IST" duration-ms="97">
+    <test started-at="2022-01-22T17:43:24 IST" name="Default test" finished-at="2022-01-22T17:43:24 IST" duration-ms="58">
       <class name="com.example.MAVAN.Test12">
-        <test-method signature="testOddInput()[pri:0, instance:com.example.MAVAN.Test12@4e096385]" started-at="2022-01-21T14:11:10 IST" name="testOddInput" finished-at="2022-01-21T14:11:10 IST" duration-ms="17" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testOddInput -->
-        <test-method signature="testinput()[pri:0, instance:com.example.MAVAN.Test12@4e096385]" started-at="2022-01-21T14:11:10 IST" name="testinput" finished-at="2022-01-21T14:11:10 IST" duration-ms="3" status="PASS">
+        <test-method signature="testinput()[pri:0, instance:com.example.MAVAN.Test12@27ff5d15]" started-at="2022-01-22T17:43:24 IST" name="testinput" finished-at="2022-01-22T17:43:24 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testinput -->

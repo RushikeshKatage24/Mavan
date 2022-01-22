@@ -10,8 +10,5 @@ public class Test12 {
 	public void testinput() {
 		assertTrue(MavanApplication.numIsEvenOrNot(124));
 	}
-	@Test
-	public void testOddInput() {
-		assertFalse(MavanApplication.numIsEvenOrNot(123));
-	}
+
 }
